@@ -8,4 +8,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 09/03/2022
 ### Added
-- Changelog for CIDM4360 repository
+- Changelog for CIDM5360 repository
